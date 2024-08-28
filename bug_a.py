@@ -1,0 +1,1 @@
+print('New bug founded')
